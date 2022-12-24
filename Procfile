@@ -1,1 +1,1 @@
-web: gunicorn wheat_classification: app
+web: gunicorn app: app
